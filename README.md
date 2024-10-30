@@ -1,8 +1,20 @@
-# <p align="center">Hi, 👋 I'm Fabricio!</p>
+# <p align="center">Hola, 👋 I'm Fabricio!</p> 
 
-**Welcome to my profile!**
+<br>
 
-## ⚙️ My skills
+<img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
+
+### I am a Technician and Software Engineering from Argentina. ⚽
+- 💻 Student
+- 🔭 I’m currently working on UCP System Proyects.
+- 🌱 I’m currently learning Data Analyst Learning Path.
+- 🔔 I speak Spanish, English and Portuguese.
+
+<br>
+
+<a href="https://www.linkedin.com/in/fabricio-valdez-146758228//"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:fabriciovaldezz41@gmail.com@gmail.com?subject=Hello%20Sameer"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href=""><img src="https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>&nbsp;
 
 ## 📋 Languages
 
@@ -12,6 +24,7 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ## 💾 Databases
 
@@ -61,14 +74,3 @@
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-
-## 📩 Contact me
-
-<a href="mailto:fabriciovaldezz41@gmail.com-">
-<img alt="eMail" src="https://img.shields.io/badge/fabriciovaldezz41@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-
